@@ -9,9 +9,9 @@ repo: upptime # The name of this repository
 #     url: https://en.wikipedia.org
 #   - name: Hacker News
 #     url: https://news.ycombinator.com
-  - name: MetaFlyer.io
+  - name: MFIO
     url: https://metaflyer.io
-  - name: MetaFlyer.co.kr
+  - name: MFCO
     url: https://metaflyer.co.kr
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
